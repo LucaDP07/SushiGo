@@ -1,0 +1,12 @@
+html {
+    height: 100%;
+}
+
+body {
+    padding-top: 130px;
+    font-family: Open Sans, sans-serif; 
+    /* Stick footer to the bottom of the page */
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
