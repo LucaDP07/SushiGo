@@ -1,0 +1,359 @@
+[
+    {
+        "model": "menu.dish",
+        "pk": 1,
+        "fields": {
+            "category": 1,
+            "sku": "1001",
+            "name": "Tamago Maki",
+            "slug": "tamago-maki",
+            "description": "The table's size can be quickly and easily adjusted to meet your various demands. You may extend the table to seat 4 to 6 people by storing the extra leaf underneath the tabletop.\r\n\r\nThe hidden locking mechanism maintains the extra leaf in place and eliminates gaps between the top and leaf.\r\n\r\neasily extended by a single person.\r\n\r\nThe spare leaf can be kept underneath the tabletop, easily accessible.\r\n\r\nThe surface of the clear lacquer is simple to clean.",
+            "price": "7.50",
+            "discount_price": null,
+            "rating": "4.70",
+            "image_url": null,
+            "image": "",
+            "featured": true
+        }
+    },
+    {
+        "model": "menu.dish",
+        "pk": 2,
+        "fields": {
+            "category": 1,
+            "sku": "1002",
+            "name": "Lettuce Maki",
+            "slug": "lettuce-maki",
+            "description": "4-6 people can be seated at an extendable dining table with 1 additional leaf, which allows you to customize the table size.\r\n\r\nWhen using the table without extending it, there are no seams because to the clever design.\r\n\r\nWhen you draw out the table to make extra space for chairs around the table, the table legs move along with it.\r\n\r\nThe melamine table surface resists moisture, stains, and is simple to clean.\r\n\r\nUnder the table top, there is space to store the additional leaf conveniently.\r\n\r\neasily extended by a single person.",
+            "price": "6.50",
+            "discount_price": "190.00",
+            "rating": "4.50",
+            "image_url": null,
+            "image": "",
+            "featured": false
+        }
+    },
+    {
+        "model": "menu.dish",
+        "pk": 3,
+        "fields": {
+            "category": 1,
+            "sku": "1003",
+            "name": "Tuna Mayo Maki",
+            "slug": "tuna-mayo-maki",
+            "description": "The Red Dot Design Award was given to our LISABO table series in 2016 for its clever design and handcrafted appearance.\r\n\r\nSince there is only one fitting per leg, assembly is simple.\r\n\r\nAsh is a robust hardwood with an attractive grain pattern. The color moderately intensifies toward a deep straw color as it ages.\r\n\r\nThe table's ash veneer top and solid birch legs offer your area a cozy, organic vibe.\r\n\r\nThis table has passed our rigorous stability, durability, and safety tests to withstand years of regular usage in your house.",
+            "price": "7.50",
+            "discount_price": null,
+            "rating": "4.40",
+            "image_url": null,
+            "image": "",
+            "featured": true
+        }
+    },
+    {
+        "model": "menu.dish",
+        "pk": 4,
+        "fields": {
+            "category": 1,
+            "sku": "2004",
+            "name": "Tempura Maki",
+            "slug": "tempura-maki",
+            "description": "The Red Dot Design Award was given to our OTOBI table series in 2016 for its clever design and handcrafted appearance.\r\n\r\nBigger family bigger choice.\r\n\r\nAsh is a robust hardwood with an attractive grain pattern. The color moderately intensifies toward a deep straw color as it ages.\r\n\r\nThe table's ash veneer top and solid birch legs offer your area a cozy, organic vibe.\r\n\r\nThis table has passed our rigorous stability, durability, and safety tests to withstand years of regular usage in your house.",
+            "price": "10.50",
+            "discount_price": "390.00",
+            "rating": "4.70",
+            "image_url": null,
+            "image": "",
+            "featured": true
+        }
+    },
+    {
+        "model": "menu.dish",
+        "pk": 5,
+        "fields": {
+            "category": 2,
+            "sku": "2005",
+            "name": "Yukari",
+            "slug": "yukari",
+            "description": "High resiliency foam and polyester fiber wadding seat cushions provide your body with excellent support and quickly take on their original shape after you stand up.\r\n\r\nBack cushions that may be worn on either side and are packed with polyester fibers offer gentle back support.\r\n\r\nThis cover is constructed of polyester dope-dyed Totebo cloth. It has a lovely tone-on-tone coloring and a smooth, long-lasting weave.\r\n\r\nThe cover is simple to maintain because it is machine washable and simple to remove and reinstall.\r\n\r\nIt is simple to change the appearance of your sofa and space by using additional covers to alternate with.",
+            "price": "2.50",
+            "discount_price": null,
+            "rating": "3.80",
+            "image_url": null,
+            "image": "",
+            "featured": false
+        }
+    },
+    {
+        "model": "menu.dish",
+        "pk": 6,
+        "fields": {
+            "category": 2,
+            "sku": "2006",
+            "name": "Ume",
+            "slug": "ume",
+            "description": "High resiliency foam and polyester fiber wadding seat cushions provide your body with excellent support and quickly take on their original shape after you stand up.\r\n\r\n\r\nThis cover is constructed of polyeste cloth. It has a lovely tone-on-tone coloring and a smooth, long-lasting weave.\r\n\r\nThe cover is simple to maintain because it is machine washable and simple to remove and reinstall.\r\n\r\nIt is simple to change the appearance of your sofa and space by using additional covers to alternate with.",
+            "price": "3.50",
+            "discount_price": null,
+            "rating": "3.90",
+            "image_url": null,
+            "image": "",
+            "featured": false
+        }
+    },
+    {
+        "model": "menu.dish",
+        "pk": 7,
+        "fields": {
+            "category": 2,
+            "sku": "2007",
+            "name": "Kombu",
+            "slug": "kombu",
+            "description": "High resiliency foam and polyester fiber wadding seat cushions provide your body with excellent support and easily restore their shape when you stand up.\r\n\r\nWith two separate wearable sides, reversible polyester fiber-filled back cushions offer gentle back support.\r\n\r\nTotebo cloth in polyester dope-dyed was used to make this cover. The cover has a wonderful tone-on-tone coloring and is made of a smooth, strong weave.\r\n\r\nDue to its machine washability and ease of removal and reinstallation, the cover is simple to keep clean.\r\n\r\nIt is simple to give your sofa and space a new look by alternating between extra coverings.",
+            "price": "3.50",
+            "discount_price": "420.00",
+            "rating": "4.80",
+            "image_url": null,
+            "image": "",
+            "featured": false
+        }
+    },
+    {
+        "model": "menu.dish",
+        "pk": 8,
+        "fields": {
+            "category": 2,
+            "sku": "2008",
+            "name": "Salmon",
+            "slug": "salmon",
+            "description": "High resiliency foam and polyester fiber wadding seat cushions provide your body with excellent support and easily restore their shape when you stand up.\r\n\r\nWith two separate wearable sides, reversible polyester fiber-filled back cushions offer gentle back support.\r\n\r\nTotebo cloth in polyester dope-dyed was used to make this cover. The cover has a wonderful tone-on-tone coloring and is made of a smooth, strong weave.\r\n\r\nDue to its machine washability and ease of removal and reinstallation, the cover is simple to keep clean.\r\n\r\nIt is simple to give your sofa and space a new look by alternating between extra coverings.",
+            "price": "3.50",
+            "discount_price": null,
+            "rating": "4.40",
+            "image_url": null,
+            "image": "",
+            "featured": true
+        }
+    },
+    {
+        "model": "menu.dish",
+        "pk": 9,
+        "fields": {
+            "category": 2,
+            "sku": "2009",
+            "name": "Tuna Mayo",
+            "slug": "tuna-mayo",
+            "description": "Make your living into light and bright living room with our special Wing chait\r\n\r\nSkiftebo polyester cloth, which is strong, was used to make this cover. It feels strong to the touch and has a wonderful two-tone look with a light texture.",
+            "price": "3.50",
+            "discount_price": null,
+            "rating": "4.20",
+            "image_url": null,
+            "image": "",
+            "featured": false
+        }
+    },
+    {
+        "model": "menu.dish",
+        "pk": 10,
+        "fields": {
+            "category": 2,
+            "sku": "2011",
+            "name": "Okaka",
+            "slug": "okaka",
+            "description": "GET TWO FOR THE PRICE OF ONE\r\n\r\nThe shape of the armchair provides nice support for the lumbar region.\r\n\r\nThe fixed cover HAKEBO feels soft and smooth and has a nice texture that makes the sofa comfortable and inviting.\r\n\r\n10 year guarantee. Read about the terms in the guarantee brochure.",
+            "price": "3.50",
+            "discount_price": null,
+            "rating": "3.30",
+            "image_url": null,
+            "image": "",
+            "featured": true
+        }
+    },
+    {
+        "model": "menu.dish",
+        "pk": 11,
+        "fields": {
+            "category": 2,
+            "sku": "2011",
+            "name": "Tenmusu",
+            "slug": "tenmusu",
+            "description": "Perfect for any occasions.\r\nFor added durability and so you can enjoy the natural expression of the wood, the furniture has been pre-treated with a layer of semi-transparent wood stain.\r\n\r\nSuitable for both indoor and outdoor use.",
+            "price": "4.00",
+            "discount_price": "29.00",
+            "rating": "4.10",
+            "image_url": null,
+            "image": "",
+            "featured": false
+        }
+    },
+    {
+        "model": "menu.dish",
+        "pk": 12,
+        "fields": {
+            "category": 3,
+            "sku": "2012",
+            "name": "Okura and aubergine curry",
+            "slug": "otobi-chair-red",
+            "description": "Since the plastic is both fade resistant and UV stabilized to avoid cracking and drying out, the easy chair will look newer and last longer.\r\n\r\nmay be layered, allowing you to save space.\r\n\r\nWater can flow out of the seat's drain hole.\r\n\r\nSimply wipe with a moist towel to stay clean.",
+            "price": "11.50",
+            "discount_price": null,
+            "rating": "3.20",
+            "image_url": null,
+            "image": "",
+            "featured": false
+        }
+    },
+    {
+        "model": "menu.dish",
+        "pk": 13,
+        "fields": {
+            "category": 3,
+            "sku": "2013",
+            "name": "Beef curry",
+            "slug": "beef-curry",
+            "description": "A fun and durable storage series for sitting, playing, and unwinding, as well as organizing and storing toys.\r\n\r\nBecause of the frame's numerous grooves, you may position boxes and shelves wherever you choose and swap them out whenever you want.\r\n\r\nLow storage makes it simpler for kids to access and arrange their belongings.",
+            "price": "12.50",
+            "discount_price": null,
+            "rating": "3.60",
+            "image_url": null,
+            "image": "",
+            "featured": false
+        }
+    },
+    {
+        "model": "menu.dish",
+        "pk": 14,
+        "fields": {
+            "category": 3,
+            "sku": "2014",
+            "name": "Chicken katsu curry",
+            "slug": "chicken-katsu-curry",
+            "description": "A fun and durable storage for all kinds of teddies as well as organizing and storing toys.\r\n\r\nBecause of the frame's numerous grooves, you may position boxes and shelves wherever you choose and swap them out whenever you want.\r\n\r\nLow storage makes it simpler for kids to access and arrange their belongings.",
+            "price": "12.50",
+            "discount_price": "120.00",
+            "rating": "4.10",
+            "image_url": null,
+            "image": "",
+            "featured": false
+        }
+    },
+    {
+        "model": "menu.dish",
+        "pk": 15,
+        "fields": {
+            "category": 3,
+            "sku": "2015",
+            "name": "Katsu curry",
+            "slug": "katsu-curry",
+            "description": "Storage combination with boxes, Children need room for play – and good storage for toys like Oliver dein toy storage – a series of sturdy wooden frames and lightweight plastic boxes that your child can easily slide out, carry and put back again.",
+            "price": "99.00",
+            "discount_price": null,
+            "rating": "3.30",
+            "image_url": null,
+            "image": "",
+            "featured": true
+        }
+    },
+    {
+        "model": "menu.dish",
+        "pk": 16,
+        "fields": {
+            "category": 4,
+            "sku": "2016",
+            "name": "Zaru soba",
+            "slug": "zaru-soba",
+            "description": "Storage combination with boxes, white/yellow orange and blue\r\nToy organization and storage made fun and easy with this storage series.\r\n\r\nBoxes and shelves can be placed and moved around at any moment thanks to the frame's guiding rails.\r\n\r\nVertical storage conserves space and is useful in compact areas.",
+            "price": "7.00",
+            "discount_price": null,
+            "rating": "4.40",
+            "image_url": null,
+            "image": "",
+            "featured": false
+        }
+    },
+    {
+        "model": "menu.dish",
+        "pk": 17,
+        "fields": {
+            "category": 4,
+            "sku": "2016",
+            "name": "Zaru udon",
+            "slug": "zaru-udon",
+            "description": "The frame's small size makes it ideal for spaces with limited space.\r\n\r\nAll corners of FUN SIZE doors are softly rounded so that you and your child can avoid cutting edges.\r\n\r\nEven after a heated debate, the doors' soft-closing hinges cause them to close softly and quietly.\r\n\r\nThe cleverly constructed runners cause the drawer to gradually retreat when opened, conserving space.\r\n\r\nThe likelihood that clothes, backpacks, and accessories will return to the closet and not end up on the floor is greatly increased by the presence of hooks on the clothes rail.",
+            "price": "7.00",
+            "discount_price": null,
+            "rating": "4.60",
+            "image_url": null,
+            "image": "",
+            "featured": true
+        }
+    },
+    {
+        "model": "menu.dish",
+        "pk": 18,
+        "fields": {
+            "category": 5,
+            "sku": null,
+            "name": "Edamame",
+            "slug": "edamame",
+            "description": "The frame's small size makes it ideal for spaces with limited space.\r\n\r\nAll corners of Otobi Bedside Wardrobe doors are softly rounded so that you and your child can avoid cutting edges.\r\n\r\nEven after a heated debate, the doors' soft-closing hinges cause them to close softly and quietly.\r\n\r\nThe cleverly constructed runners cause the drawer to gradually retreat when opened, conserving space.\r\n\r\nThe likelihood that clothes, backpacks, and accessories will return to the closet and not end up on the floor is greatly increased by the presence of hooks on the clothes rail.",
+            "price": "4.00",
+            "discount_price": "270.00",
+            "rating": "4.90",
+            "image_url": null,
+            "image": "",
+            "featured": true
+        }
+    },
+    {
+        "model": "menu.dish",
+        "pk": 19,
+        "fields": {
+            "category": 5,
+            "sku": "2018",
+            "name": "Vegetable Gyoza",
+            "slug": "vegetable-gyoza",
+            "description": "You can keep both hanging and folded clothes in this wardrobe, since it has a clothes rail and shelves.\r\n\r\nDeep enough to hold standard-sized adult hangers.",
+            "price": "5.00",
+            "discount_price": null,
+            "rating": "3.10",
+            "image_url": null,
+            "image": "",
+            "featured": false
+        }
+    },
+    {
+        "model": "menu.dish",
+        "pk": 20,
+        "fields": {
+            "category": 5,
+            "sku": "2019",
+            "name": "Chicken Gyoza",
+            "slug": "chicken-gyoza",
+            "description": "Because of their shorter stature and less developed motor abilities, younger children can reach and hang their own clothing back up in this wardrobe.\r\n\r\nYou can change and modify the interior of the wardrobe to suit your child's demands.\r\n\r\nDue to the adjustable feet that are included, it stands firmly even on uneven floors.\r\n\r\nThe doors' soft-closing hinges allow for a quiet and gentle closure.",
+            "price": "6.00",
+            "discount_price": "320.00",
+            "rating": "4.60",
+            "image_url": null,
+            "image": "",
+            "featured": true
+        }
+    },
+    {
+        "model": "menu.dish",
+        "pk": 21,
+        "fields": {
+            "category": 5,
+            "sku": "2021",
+            "name": "Miso soup",
+            "slug": "miso-soup",
+            "description": "Because the sturdy materials in the cot foundation have been tested to guarantee they provide your baby's body with the support it needs, they will sleep both safely and comfortably.\r\n\r\nThe base of the cot is properly vented for optimal air circulation, providing your youngster with a comfortable sleeping environment.",
+            "price": "5.00",
+            "discount_price": null,
+            "rating": "3.90",
+            "image_url": null,
+            "image": "",
+            "featured": true
+        }
+    }
+]
