@@ -1,5 +1,23 @@
 from django.contrib import admin
 from .models import Dish, Category
 
-admin.site.register(Category)
-admin.site.register(Dish)
+
+class DishAdmin(admin.ModelAdmin):
+    list_display = (
+        'sku',
+        'name',
+        'category',
+        'price',
+        'rating',
+        'image',
+    )
+
+ordering = ('sku',)
+
+class CategoryAdmin(admin.ModelAdmin):
+    list_display = (
+        'name',
+    )
+
+admin.site.register(Dish, DishAdmin)
+admin.site.register(Category, CategoryAdmin)

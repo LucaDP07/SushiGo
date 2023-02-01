@@ -19,6 +19,10 @@ class Dish(models.Model):
     """
     Returns dishes and their details
     """
+
+    class Meta:
+        verbose_name_plural = 'Dishes'
+
     category = models.ForeignKey('Category', null=True, blank=True, on_delete=models.SET_NULL)
     sku = models.CharField(max_length=100, null=True, blank=True)
     name = models.CharField(max_length=100)
